@@ -4,7 +4,7 @@
 <s:form name = "GetUserInfo" namespace = "/" action = "GetTravelReport" method = "post" theme = "bootstrap">
 
     <s:radio name = "EncounterRisk"
-             label = "Pick the relative combat-encounter risk for the area (+1/12 chance & +1CR per level above \"normal\") "
+             label = "Pick the relative combat-encounter risk for the area for fe/chand branch (+1/12 chance & +1CR per level above \"normal\") "
              list = "EncounterRiskLevels"
              value = "EncounterRiskLevels[0]" />
 
