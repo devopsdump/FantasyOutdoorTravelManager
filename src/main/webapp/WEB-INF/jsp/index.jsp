@@ -16,6 +16,7 @@
     
     <sb:head/>
     <title><s:text name = "app.title" /></title>
+    <h1><s:text name = "This is from Feature Branch" /></h1>
   </head>
 
   <body>
